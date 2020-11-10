@@ -1,0 +1,30 @@
+@import "bootstrap/scss/bootstrap";
+
+.container {
+  margin: auto;
+  font-size: 12px;
+  padding: 20px;
+  width: 500px;
+
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+#new {
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.navbar-brand {
+}
